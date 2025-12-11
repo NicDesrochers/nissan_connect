@@ -16,31 +16,10 @@ This integration has been tested with the following vehicles:
 
 ## Supported Regions
 * Europe
-* Canada *** Work in progess
+* Canada *** Work in progess @NicDesrochers
 
 Currently only Nissan vehicles within Europe are supported.
 
-### North America
-The API used in North America is completely separate to Europe and it appears that Nissan USA are [a lot more hostile](https://tobis.dk/blog/the-farce-of-nissanconnect-north-america/) towards third-party access. Any future US support would rely on library support (such as [dartnissanconnectna](https://gitlab.com/tobiaswkjeldsen/dartnissanconnectna)) or someone in North America maintaining that side of things. If you're interested, get in touch!
-
-## Installation
-
-### HACS
-
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=dan-r&repository=HomeAssistant-NissanConnect&category=integration)
-
-This is the recommended installation method.
-1. Search for and install the **NissanConnect [EU]** integration from HACS
-2. Restart Home Assistant
-
-### Manual
-1. Download the [latest release](https://github.com/dan-r/HomeAssistant-NissanConnect/releases)
-2. Copy the contents of `custom_components` into the `<config directory>/custom_components` directory of your Home Assistant installation
-3. Restart Home Assistant
-
-
-## Setup
-From the Home Assistant Integrations page, search for and add the Nissan Connect integration.
 
 ## Update Time
 Terminology used for this integration:
