@@ -16,6 +16,7 @@ This integration has been tested with the following vehicles:
 
 ## Supported Regions
 * Europe
+* Canada *** Work in progess
 
 Currently only Nissan vehicles within Europe are supported.
 
